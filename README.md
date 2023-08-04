@@ -1,8 +1,3 @@
-# Cloud engineer challenge
-
-Welcome to the KI cloud engineer challenge.
-We want to feel your "devops" skiils!
-
 ## Calculator application
 
 The calculator application uses a micro service architecture to provide an API to resolve mathematical expressions.
@@ -67,7 +62,7 @@ The available mathematical expression micro services are:
 
 In the root of the project you have a docker-compose that brings all services up.
 As you may notice the client service is not working properly and is throwing an error.
-We need you to fix it!
+Fix it!
 
 ## Challenge 2. Development flow
 
